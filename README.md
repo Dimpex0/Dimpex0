@@ -20,7 +20,8 @@ I'm Dimitar, a passionate software enthusiast currently pursuing my studies at S
 
 ## 🚀 My Projects
 
-- 📦 WiredWorld (https://github.com/Dimpex0/WiredWorldWebsite): My first Django project, an E-Commerce tech website.
+- 🛒 WiredWorld (https://github.com/Dimpex0/WiredWorldWebsite): My first Django project, an E-Commerce tech website.
+- 🥖 Restaurant System (https://github.com/Dimpex0/Restaurant-System): A basic restaurant system, made with the Tkinter library.
 
 ## 🛠️ Languages and Tools
 <div>
