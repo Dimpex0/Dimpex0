@@ -22,6 +22,11 @@ I'm Dimitar, a passionate software enthusiast currently pursuing my studies at S
 
 - 📦 WiredWorld (https://github.com/Dimpex0/WiredWorldWebsite): My first Django project, an E-Commerce tech website.
 
+## 🛠️ Languages and Tools
+<div>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg' width='20' height='20'>
+</div>
+
 ## 🌟 Get in Touch
 
 - 📧 Email: mailto:mitkodd2005@gmail.com
