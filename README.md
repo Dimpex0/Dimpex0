@@ -4,24 +4,17 @@
   <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNndHY2bmM5ZXVlY24xN3gxNjJjcDh2MnYwM3NkMTcyanlwdHlpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='100'>
 </div>
 
-I'm Dimitar, a passionate software enthusiast currently pursuing my studies at SoftUni (https://softuni.bg/). My journey in the world of programming has led me to dive deep into the realm of Python and the powerful Django framework.
-
 ## 🌱 About Me
 
-- 📚 I'm currently a student at SoftUni (https://softuni.bg/) where I'm honing my skills in Python and Django.
+- 📚 I'm currently a student at the Faculty of Mathematics and Informatics (FMI) where I'm diving deep into the programming world.
 - 💡 I love to explore new technologies and find innovative solutions to real-world problems.
 - 🎯 My goal is to become a proficient full-stack developer and contribute to exciting projects.
 
 ## 💼 What I'm Currently Working On
 
-- 🐍 Learning the ins and outs of Python programming language.
-- 🌐 Exploring the intricacies of web development using the Django framework.
+- 🐍 Learning the ins and outs of C++.
+- 🌐 Exploring the intricacies of web development using React and Django.
 - 🚀 Building practical projects to solidify my knowledge and improve my coding skills.
-
-## 🚀 My Projects
-
-- 🛒 WiredWorld (https://github.com/Dimpex0/WiredWorldWebsite): My first Django project, an E-Commerce tech website.
-- 🥖 Restaurant System (https://github.com/Dimpex0/Restaurant-System): A basic restaurant system, made with the Tkinter library.
 
 ## 🛠️ Languages and Tools
 <div>
