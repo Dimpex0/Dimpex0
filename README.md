@@ -1,10 +1,3 @@
-<style>
-  .white {
-    width: 20px;
-    height: 20px;
-  }
-</style>
-
 ### Hello, World! 👋
 
 <div id='header' align='center'>
